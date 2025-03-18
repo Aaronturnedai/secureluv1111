@@ -1,0 +1,23 @@
+#luvbot-hearts {
+    position: absolute;
+    top: -10px; /* Move slightly above LuvBot's head */
+    right: 25px; /* Center between both hearts */
+}
+#luvbot-hearts .heart1 {
+    font-size: 26px;
+    right: -5px;
+    top: 0px;
+    animation-delay: 0.1s;
+}
+#luvbot-hearts .heart2 {
+    font-size: 20px;
+    right: 15px;
+    top: 10px;
+    animation-delay: 0.7s;
+}
+#luvbot-hearts .heart3 {
+    font-size: 15px;
+    right: -5px;
+    top: 0px;
+    animation-delay: 1.9s;
+}
